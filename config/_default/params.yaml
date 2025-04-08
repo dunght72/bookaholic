@@ -16,8 +16,8 @@ timeFormat: "02/01/2006 15:04:05"
 
 # 页面模式
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
@@ -65,10 +65,10 @@ creativeCommons:
   size: big
   # 侧边栏显示
   # Show in sidebar
-  sidebar: true
+  sidebar: false
   # 文章底部显示
   # Show in post footer
-  post: true
+  post: false
 
 # OG SEO 配置
 # Open graph settings
