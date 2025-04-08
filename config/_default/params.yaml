@@ -17,9 +17,9 @@ timeFormat: "02/01/2006 15:04:05"
 # 页面模式
 # Schemes
 #scheme: Muse
-scheme: Mist
+#scheme: Mist
 #scheme: Pisces
-#scheme: Gemini
+scheme: Gemini
 
 # 开启暗模式
 # Dark Mode
