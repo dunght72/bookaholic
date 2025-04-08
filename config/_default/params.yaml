@@ -16,10 +16,10 @@ timeFormat: "01/02/2006 15:04:05"
 
 # 页面模式
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
 #scheme: Pisces
-scheme: Gemini
+#scheme: Gemini
 
 # 开启暗模式
 # Dark Mode
@@ -338,7 +338,7 @@ postMeta:
     plugin: waline3
   # 是否开启页面访问数显示
   views:
-    enable: false
+    enable: true
     # 页面访问统计插件，支持busuanzi, waline, leancloud, waline3
     # Page views counter plugin, support: busuanzi, waline, leancloud, waline3
     plugin: waline3
@@ -380,7 +380,7 @@ postFooter:
   # 通过线条将文章和捐赠等信息隔开，并在线条上添加提示信息
   # Use line to separate post and reward etc other information
   # and add tip title on line.
-  #endLineTip: "~ 我可是有底线的哟 ~"
+  endLineTip: "~ Have a good time ~"
   # 是否使用小图标，默认使用 # 符号表示标签
   # Use icon instead of the symbol # to indicate the tag
   tagIcon: true
@@ -391,13 +391,13 @@ rewardSets:
   # 是否开启捐赠按钮，开启后将在每个文章页面底部显示
   # If true, a donate button will be displayed 
   # in every article by default.
-  enable: false
+  enable: true
   # 是否开启捐赠方式的动画效果
   # If true, the donate type title will with animation.
   animation: true
   # 捐赠信息的描述，支持 HTML 语法
   # Comment for donate and suppport HTML syntax
-  comment: '<i class="fa-solid fa-mug-hot"></i>请我喝杯咖啡吧 ヾ(^▽^*)))'
+  comment: '<i class="fa-solid fa-mug-hot"></i> Have a good time ヾ(^▽^*)))'
   # 捐赠方式
   # 用例： `名称:图像地址`
   # Donate type
