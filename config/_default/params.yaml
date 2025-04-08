@@ -56,24 +56,24 @@ customLogo: #/imgs/hugo_next_logo.png
 # 更多信息： https://creativecommons.org/about/cclicenses/
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
-creativeCommons:
+#creativeCommons:
   # 可选配置： by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | cc-zero
   # Available values: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | cc-zero
-  license: by-nc-sa
+  #license: by-nc-sa
   # 可选配置： big | small
   # Available values: big | small
-  size: big
+  #size: big
   # 侧边栏显示
   # Show in sidebar
-  sidebar: true
+  #sidebar: true
   # 文章底部显示
   # Show in post footer
-  post: true
+  #post: true
 
 # OG SEO 配置
 # Open graph settings
 openGraph:
-  enable: true
+  enable: false
   #twitter:
    #creator: <twitter:creator>
    #image: <twitter:image>
@@ -148,7 +148,7 @@ siteState:
   # 站点访问信息
   # Site information
   views: 
-    enable: true
+    enable: false
     # 组件类型，可选值为： 51la, busuanzi
     # 使用51la时需要注册账号：https://invite.51.la/1NUfGTS1?target=V6
     # Plguin value is: 51la, busuzazi
@@ -204,9 +204,9 @@ linksSets:
 # 用法： `Key: 显示名称 || 链接地址`
 # Links of your friends
 # Usage: `Key: name || permalink`
-links: 
-  link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-  link1: 凡梦星尘空间站 || https://lisenhui.cn
+#links: 
+  #link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
+  #link1: 凡梦星尘空间站 || https://lisenhui.cn
 
 # 文章目录显示
 # Table of Contents in the Sidebar
@@ -338,7 +338,7 @@ postMeta:
     plugin: waline3
   # 是否开启页面访问数显示
   views:
-    enable: true
+    enable: false
     # 页面访问统计插件，支持busuanzi, waline, leancloud, waline3
     # Page views counter plugin, support: busuanzi, waline, leancloud, waline3
     plugin: waline3
@@ -380,7 +380,7 @@ postFooter:
   # 通过线条将文章和捐赠等信息隔开，并在线条上添加提示信息
   # Use line to separate post and reward etc other information
   # and add tip title on line.
-  endLineTip: "~ 我可是有底线的哟 ~"
+  #endLineTip: "~ 我可是有底线的哟 ~"
   # 是否使用小图标，默认使用 # 符号表示标签
   # Use icon instead of the symbol # to indicate the tag
   tagIcon: true
@@ -391,7 +391,7 @@ rewardSets:
   # 是否开启捐赠按钮，开启后将在每个文章页面底部显示
   # If true, a donate button will be displayed 
   # in every article by default.
-  enable: true
+  enable: false
   # 是否开启捐赠方式的动画效果
   # If true, the donate type title will with animation.
   animation: true
@@ -412,11 +412,11 @@ rewardSets:
 # 用例： `key: 名称 || 链接（图像地址）|| icon名称`
 # Subscribe through Telegram Channel, Twitter, etc.
 # Usage: `Key: name || permalink || icon` (Font Awesome)
-followMe:
+#followMe:
   #channel0: Twitter || https://twitter.com/username || fab fa-twitter
   #channel1: Telegram || https://t.me/channel_name || fab fa-telegram
-  channel2: WeChat || /images/wechat_channel.jpg || fab fa-weixin
-  channel3: RSS || /atom.xml || fa fa-rss
+  #channel2: WeChat || /images/wechat_channel.jpg || fab fa-weixin
+  #channel3: RSS || /atom.xml || fa fa-rss
 
 # 文章的在线编辑
 # Post edit
@@ -518,7 +518,7 @@ bookmark:
 githubBanner:
   # 是否开启显示
   # If true, will display banner.
-  enable: true
+  enable: false
   # 你的 Github 仓库地址
   # Your repository url on Github.
   permalink: https://github.com/hugo-next
