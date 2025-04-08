@@ -21,11 +21,11 @@ title: Dũng Tìm Sách
 theme: hugo-theme-next
 # 站点默认的语言和代码
 # Default laguage & code for website
-defaultContentLanguage: en
-languageCode: en
+defaultContentLanguage: en-us
+languageCode: en-us
 # 是否包含中文，日语，韩文
 # Whether contains Chinese, Japanese and Korean
-hasCJKLanguage: false
+hasCJKLanguage: true
 # 每页显示文章数量
 # Display items per page
 pagination:
