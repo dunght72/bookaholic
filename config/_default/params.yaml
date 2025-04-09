@@ -16,10 +16,10 @@ timeFormat: "02/01/2006 15:04:05"
 
 # 页面模式
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
 #scheme: Pisces
-scheme: Gemini
+#scheme: Gemini
 
 # 开启暗模式
 # Dark Mode
@@ -144,11 +144,11 @@ avatar:
 siteState: 
   # 是否在侧边栏显示文章、分类、标签信息
   # Posts / Categories / Tags in sidebar.
-  basic: true
+  basic: false
   # 站点访问信息
   # Site information
   views: 
-    enable: true
+    enable: false
     # 组件类型，可选值为： 51la, busuanzi
     # 使用51la时需要注册账号：https://invite.51.la/1NUfGTS1?target=V6
     # Plguin value is: 51la, busuzazi
