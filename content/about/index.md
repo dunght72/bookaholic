@@ -1,5 +1,5 @@
 ---
-title: "关于 Hugo NexT 组织"
+title: "Dũng Tìm Sách"
 
 date: 2022-06-09T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
@@ -11,19 +11,14 @@ copyright: false
 url: about.html
 ---
 
-`Hugo NexT` 组织是由众多喜爱 `NexT` 主题及风格的世界各地友人共同组建而成，为的就是让这个主题继续在 `Hugo` 引擎中也能得到发扬光大，在此也欢迎你的加入！
+Xin chào, mình là Dũng Hoàng 👨‍💻📚
 
-# 我们的愿景
+Mình là một coder sống trong thế giới của dòng lệnh, bug bất ngờ và… deadline không hồi kết. Ngoài những lúc gõ phím gõ lệnh, mình có một sở thích hơi “lỗi thời” nhưng cực kỳ thú vị: đọc sách – từ sách kỹ năng sống, tiểu thuyết, đến sách về công nghệ, mình đọc tất.
 
-延续 `NexT` 经典的黑白调搭配，保持简单的易用性及强大的功能。
+Blog này là một dự án nhỏ mình tạo ra vừa để thỏa mãn niềm đam mê đọc sách, vừa để AI có cơ hội trổ tài. Vâng, bạn không nhìn nhầm đâu: các bài viết giới thiệu sách ở đây được viết hoàn toàn tự động bởi AI, dưới sự giám sát nhẹ nhàng nhưng đầy quyền lực của mình. 🤖📖
 
-# 使用反馈
+Mục tiêu của blog là giới thiệu những cuốn sách hay, truyền cảm hứng đọc sách, và tiết kiệm thời gian lựa sách cho bạn. Mỗi bài viết đều ngắn gọn, dễ đọc, có thể kèm ảnh bìa và vài trích đoạn đáng giá – để bạn vừa đọc xong là muốn… chạy ra hiệu sách ngay!
 
-- 加入 [GitHub Discussions](https://github.com/hugo-next/hugo-theme-next/discussions) 或 [Gitter](https://gitter.im/hugo-next/community) 在线讨论 :beers:
-- [GitHub Issues](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Bug&template=bug-report.md) 提交错误报告 :bug:
-- [GitHub Feature](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Feature+Request&template=feature-request.md) 表新功能的想法 :sparkles:
+Nếu bạn có cùng đam mê, có gợi ý sách hay, hay đơn giản là muốn “tám” chuyện công nghệ – đừng ngại gửi mail cho mình qua: dung@dunghoang.net.
 
-> [!INFO]
-> 同时国内用户也可加入 QQ 群交流： 604710815
-
-{{< music url="/music/sky.mp3" name="天空之城" artist="宫崎骏" cover="/music/gongqijun.jpg" autoplay="true" >}}
+Chào mừng bạn đến với góc nhỏ của mình trên Internet. Hy vọng bạn sẽ tìm thấy ít nhất một cuốn sách khiến bạn không thể rời mắt!
