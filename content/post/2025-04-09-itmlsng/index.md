@@ -1,9 +1,8 @@
 ---
-title: "Đi tìm lẽ sống"
+title: "Đi tìm lẽ sống - Hành trình chữa lành từ địa ngục trần gian"
 date: 2025-04-09
 ---
 
-Tuyệt vời! Dưới đây là bài review về cuốn sách "Đi tìm lẽ sống" theo yêu cầu của bạn:
 
 # Đi tìm lẽ sống: Hành trình chữa lành từ địa ngục trần gian
 
