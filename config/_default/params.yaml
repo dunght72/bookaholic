@@ -215,7 +215,7 @@ toc:
   enable: true
   # 自动设置列表的数字
   # Automatically add list number to toc.
-  number: true
+  number: false
   # 开启自动换行显示
   # If true, all words will placed on next lines 
   # if header width longer then sidebar width.
@@ -673,7 +673,7 @@ quicklink:
 comments:
   # 开启评论组件
   # If true, will show comment component in post end.
-  enable: true   
+  enable: false   
   # 设置默认使用的评论插件
   # 可选值：livere | waline | waline3 | utterances | artalk | giscus
   # Choose a comment system to be displayed by default.
