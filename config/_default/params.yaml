@@ -16,9 +16,9 @@ timeFormat: "02/01/2006 15:04:05"
 
 # 页面模式
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 #scheme: Gemini
 
 # 开启暗模式
@@ -240,7 +240,7 @@ footer:
   # 站点开始年份，默认为当下时间的年份
   # Specify the year when the site was setup. 
   # If not defined, current year will be used.
-  since: 2022
+  since: 2024
 
   # 年份和版权信息之间的图标
   # Icon between year and copyright info.
