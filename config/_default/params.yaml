@@ -134,7 +134,7 @@ sidebar:
 avatar:
   # 设置显示头像的相对路径
   # Replace the default image and set the url here.
-  url: /imgs/hugo_next_avatar.png
+  url: https://blog.dunghoang.net/assets/images/dh_logo.png
   # 开启头像的圆形显示效果
   # If true, the avatar will be displayed in circle.
   rounded: true
@@ -144,7 +144,7 @@ avatar:
 siteState: 
   # 是否在侧边栏显示文章、分类、标签信息
   # Posts / Categories / Tags in sidebar.
-  basic: false
+  basic: true
   # 站点访问信息
   # Site information
   views: 
