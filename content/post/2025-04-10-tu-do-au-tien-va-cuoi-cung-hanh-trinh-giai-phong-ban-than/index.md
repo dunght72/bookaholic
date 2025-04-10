@@ -35,5 +35,3 @@ Nếu bạn đã từng đọc "Sống đơn giản cho mình thanh thản" củ
 
 "Tự do đầu tiên và cuối cùng" là một cuốn sách dành cho những ai đang tìm kiếm ý nghĩa thật sự của cuộc sống, những ai muốn khám phá bản thân và sống một cuộc đời tự do, tỉnh thức. Đây không phải là một cuốn sách đọc một lần rồi thôi, mà là một người bạn đồng hành trên hành trình khám phá và giải phóng tâm trí. Hãy đọc, suy ngẫm và để Krishnamurti dẫn dắt bạn đến với tự do thật sự.
 
-
-👉 [Tìm sách này trên Tiki](https://tiki.vn/search?q=Tự do đà̂u tiên và cuó̂i cùng)
