@@ -6,8 +6,6 @@ tags:
 description: "Tự do đầu tiên và cuối cùng: Hành trình giải phóng bản thân"
 ---
 
-Dưới đây là bài review sách "Tự do đầu tiên và cuối cùng" theo yêu cầu của bạn:
-
 # Tự do đầu tiên và cuối cùng: Hành trình giải phóng tâm trí
 
 ### Mở đầu
