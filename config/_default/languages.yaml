@@ -3,8 +3,8 @@ vi-vn:
   languageDirection: ltr
   languageName: Vietnamese
   weight: 1    
-en-us:
-  languageCode: en-US
-  languageDirection: ltr
-  languageName: English
-  weight: 2
+#en-us:
+  #languageCode: en-US
+  #languageDirection: ltr
+  #languageName: English
+  #weight: 2
