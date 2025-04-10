@@ -2,8 +2,8 @@
 title: Tôi đi học - Khởi đầu cho hành trình khám phá tri thức
 date: 2025-04-10T11:28:02.818Z
 tags:
-  - Teachers
-  - Học sinh
+  - "Học trò"
+
 ---
 
 ### Tôi Đi Học - Hành trình vượt khó phi thường
