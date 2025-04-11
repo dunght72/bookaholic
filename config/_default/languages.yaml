@@ -1,8 +1,8 @@
-#vi-vn:
-  #languageCode: vi-VN
-  #languageDirection: ltr
-  #languageName: Vietnamese
-  #weight: 1    
+vi:
+  languageCode: vi-VN
+  languageDirection: ltr
+  languageName: Tiếng Việt
+  weight: 1    
 #en-us:
   #languageCode: en-US
   #languageDirection: ltr
