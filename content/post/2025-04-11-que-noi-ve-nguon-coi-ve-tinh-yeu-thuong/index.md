@@ -10,7 +10,9 @@ description: "Có những cuốn sách lặng lẽ đi vào lòng người, khơ
 
 Có những cuốn sách lặng lẽ đi vào lòng người, khơi gợi những ký ức tưởng chừng đã ngủ quên trong miền sâu thẳm của tâm hồn. "Quê Nội" của Quảng Võ là một cuốn sách như thế. Không ồn ào, hoa mỹ, "Quê Nội" nhẹ nhàng đưa ta trở về với những miền quê bình dị, nơi có cánh đồng lúa xanh mướt, có con trâu già gặm cỏ, có tiếng ru hời của bà và những trò chơi dân gian đậm chất hồn nhiên. Nếu bạn đang tìm kiếm một khoảng lặng để lắng nghe tiếng vọng của quá khứ, để tìm lại những giá trị giản dị mà ta vô tình lãng quên giữa cuộc sống xô bồ, thì "Quê Nội" chính là một lựa chọn không thể bỏ qua.
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1575281340462-65340b91626d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxRdSVDMyVBQSUyMG4lRTElQkIlOTlpfGVufDB8fHx8MTc0NDM4MTM0Mnww&ixlib=rb-4.0.3&q=80&w=1080) ## **Quê Nội** - Chạm vào ký ức tuổi thơ
+![Ảnh minh họa](https://images.unsplash.com/photo-1575281340462-65340b91626d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxRdSVDMyVBQSUyMG4lRTElQkIlOTlpfGVufDB8fHx8MTc0NDM4MTM0Mnww&ixlib=rb-4.0.3&q=80&w=1080) 
+
+## **Quê Nội** - Chạm vào ký ức tuổi thơ
 
 ### Đôi dòng về tác giả
 
