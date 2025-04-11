@@ -1,11 +1,9 @@
 ---
-title: "Dốc Hết Trái Tim: Bí Quyết Thành Công Từ Howard Schultz
-"
+title: "Dốc Hết Trái Tim: Bí Quyết Thành Công Từ Howard Schultz"
 date: 2025-04-11T02:00:19.564Z
 tags:
    - Restaurateurs
-description:"Dốc Hết Trái Tim: Bí Quyết Thành Công Từ Howard Schultz
-"
+description:"Dốc Hết Trái Tim: Bí Quyết Thành Công Từ Howard Schultz"
 ---
 
 ### Dốc Hết Trái Tim: Hành trình xây dựng đế chế Starbucks từ đam mê
