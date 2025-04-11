@@ -7,7 +7,6 @@ tags:
 description: "Tớ Thích Cậu Hơn Cả Harvard: Khi Tình Yêu Quan Trọng Hơn Thành Công"
 ---
 
-Dưới đây là bài review sách "Tớ thích cậu hơn cả Harvard" theo yêu cầu của bạn:
 
 # Tớ Thích Cậu Hơn Cả Harvard: Thanh xuân vườn trường ngọt ngào
 
