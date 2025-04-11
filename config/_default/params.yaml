@@ -134,7 +134,7 @@ sidebar:
 avatar:
   # 设置显示头像的相对路径
   # Replace the default image and set the url here.
-  url: https://blog.dunghoang.net/assets/images/dh_logo.png
+  url: https://github.com/dunght72/bookaholic/blob/main/static/imgs/image.png?raw=true
   # 开启头像的圆形显示效果
   # If true, the avatar will be displayed in circle.
   rounded: true
