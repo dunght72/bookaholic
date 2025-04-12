@@ -1,6 +1,16 @@
 {{ define "main" }}
-  {{ $randomList := first 1 (shuffle .Site.RegularPages) }}
-  {{ $random := index $randomList 0 }}
-  <meta http-equiv="refresh" content="0; url={{ $random.RelPermalink }}">
-  <p>Nếu không được chuyển tự động, hãy <a href="{{ $random.RelPermalink }}">nhấn vào đây</a>.</p>
+  <script>
+    const pages = [
+      {{ range .Site.RegularPages }}
+        "{{ .RelPermalink }}",
+      {{ end }}
+    ];
+    const randomPage = pages[Math.floor(Math.random() * pages.length)];
+    window.location.href = randomPage;
+  </script>
+
+  <p>Đang chọn sách ngẫu nhiên... Nếu không được chuyển, <a id="fallback" href="#">bấm vào đây</a>.</p>
+  <script>
+    document.getElementById("fallback").href = randomPage;
+  </script>
 {{ end }}
