@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Đang chuyển ngẫu nhiên...</title>
+    <meta http-equiv="refresh" content="0; url={{ (shuffle .Site.RegularPages).First.RelPermalink }}">
+  </head>
+  <body>
+    <p>Nếu không được chuyển tự động, hãy bấm vào đây:
+      <a href="{{ (shuffle .Site.RegularPages).First.RelPermalink }}">
+        {{ (shuffle .Site.RegularPages).First.RelPermalink }}
+      </a>
+    </p>
+  </body>
+</html>
