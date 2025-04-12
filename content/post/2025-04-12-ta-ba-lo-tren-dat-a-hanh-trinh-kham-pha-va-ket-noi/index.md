@@ -5,7 +5,7 @@ date: 2025-04-12T02:56:51.256Z
 description: "Ta Ba Lô Trên Đất Á: Hành Trình Khám Phá và Kết Nối"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1602692217242-96a3c808c8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxUYSUyMGJhJTIwbCVDMyVCNCUyMHRyJUMzJUFBbiUyMCVDNCU5MSVFMSVCQSVBNXQlMjAlQzMlODF8ZW58MHx8fHwxNzQ0NDI2NjExfDA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://bigone.vn/uploads/images/review-ta-balo-tren-dat-a-cuon-sach-danh-cho-nguoi-dam-me-xe-dich-4.jpg) 
 
  ## Ta ba lô trên đất Á: Hành trình khám phá bản thân và châu Á
 
