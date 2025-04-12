@@ -1,4 +1,5 @@
-{{ $random := (shuffle (slice .Site.RegularPages...)) | first }}
-
-<meta http-equiv="refresh" content="0; url={{ $random.RelPermalink }}">
-<p>Nếu không được chuyển tự động, <a href="{{ $random.RelPermalink }}">nhấn vào đây</a>.</p>
+{{ define "main" }}
+  {{ $random := (shuffle .Site.RegularPages) | first }}
+  <meta http-equiv="refresh" content="0; url={{ $random.RelPermalink }}">
+  <p>Nếu không được chuyển tự động, hãy <a href="{{ $random.RelPermalink }}">nhấn vào đây</a>.</p>
+{{ end }}
