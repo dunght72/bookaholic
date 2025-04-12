@@ -32,5 +32,10 @@ main:
     name: Bài Viết
     pageRef: /archives
     pre: archive
-    weight: 5
+    weight: 3
+  - identifier: random
+    name: Sách Ngẫu Nhiên
+    pageRef: /random
+    pre: random
+    weight: 4
  
