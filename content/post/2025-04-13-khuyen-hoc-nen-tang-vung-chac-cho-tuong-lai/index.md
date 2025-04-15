@@ -5,7 +5,7 @@ date: 2025-04-13T02:00:32.525Z
 description: "KHUYẾN HỌC: NỀN TẢNG VỮNG CHẮC CHO TƯƠNG LAI"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1701476413610-6242801b4767?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxLaHV5JUUxJUJBJUJGbiUyMGglRTElQkIlOERjfGVufDB8fHx8MTc0NDUwOTYzMnww&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpibook.vn%2Fupload%2Fnews%2Freview-sach-khuyen-hoc.jpg&f=1&nofb=1&ipt=e7bf55692d8f006d238f11fecac87ad96db121adc9b3cbd48da605a44d55856f) 
 
  ### Khuyến Học - Ngọn đèn soi đường cho dân tộc
 
