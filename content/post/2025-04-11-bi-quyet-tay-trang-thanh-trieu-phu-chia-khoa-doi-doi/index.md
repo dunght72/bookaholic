@@ -6,7 +6,7 @@ tags:
 description: "Bí Quyết Tay Trắng Thành Triệu Phú: Chìa Khóa Đổi Đời"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1590530744328-8cf7b12a364d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxCJUMzJUFEJTIwcXV5JUUxJUJBJUJGdCUyMHRheSUyMHRyJUUxJUJBJUFGbmclMjB0aCVDMyVBMG5oJTIwdHJpJUUxJUJCJTg3dSUyMHBoJUMzJUJBfGVufDB8fHx8MTc0NDM4MjAwNHww&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fatpbook.vn%2Fwp-content%2Fuploads%2F2023%2F12%2Fsach-ve-khoi-nghiep-02-min.jpg&f=1&nofb=1&ipt=db38c49bf8e0d9716bb69c0a7cc645d83744611ebea2416c8c39f8fbcf005b10) 
 
 
 ### Bí quyết tay trắng thành triệu phú: Con đường dẫn đến thành công tài chính
