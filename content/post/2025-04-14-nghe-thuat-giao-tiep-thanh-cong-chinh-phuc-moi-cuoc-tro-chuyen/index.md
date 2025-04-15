@@ -5,7 +5,7 @@ date: 2025-04-14T02:00:32.903Z
 description: "Nghệ Thuật Giao Tiếp Thành Công: Chinh Phục mọi cuộc trò chuyện"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1565010474529-8dbb35834f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxOZ2glRTElQkIlODclMjB0aHUlRTElQkElQUR0JTIwZ2lhbyUyMHRpJUUxJUJBJUJGcCUyMCVDNCU5MSVFMSVCQiU4MyUyMHRoJUMzJUEwbmglMjBjJUMzJUI0bmclMjAlM0ElMjA5MiUyMHRoJUUxJUJCJUE3JTIwdGh1JUUxJUJBJUFEdCUyMGdpJUMzJUJBcCUyMGIlRTElQkElQTFuJTIwdHIlRTElQkIlOUYlMjB0aCVDMyVBMG5oJTIwYiVFMSVCQSVBRGMlMjB0aCVFMSVCQSVBN3klMjB0cm9uZyUyMGdpYW8lMjB0aSVFMSVCQSVCRnB8ZW58MHx8fHwxNzQ0NTk2MDMyfDA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsachnoi.cc%2Fwp-content%2Fuploads%2F2022%2F07%2FSach-Noi-Nghe-Thuat-Giao-Tiep-De-Thanh-Cong-Leil-Lowndes-audio-book-sachnoi.cc-03.jpg&f=1&nofb=1&ipt=60fcf58a402bc72bc621f12e4f3a8d4e52f74a65076b82fb4e75c2685d4e1cd8) 
 
  ### Nghệ thuật giao tiếp để thành công: Chìa khóa mở cánh cửa thành công
 
