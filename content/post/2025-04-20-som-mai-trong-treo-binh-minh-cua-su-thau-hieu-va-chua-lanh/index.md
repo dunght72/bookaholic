@@ -4,10 +4,10 @@ date: 2025-04-20T07:57:34.309Z
 tags:
   - Family & Relationships
 
-description: "Sớm Mai Trong Trẻo: Bình Minh Của Sự Thấu Hiểu và Chữa Lành"
+description: "Sớm Mai Trong Trẻo kể về hành trình trưởng thành của một cô gái trẻ tên Linh, sống trong một thị trấn nhỏ yên bình. Cuộc sống của Linh cứ trôi qua trong lặng lẽ cho đến khi cô gặp Nam, một chàng trai với nụ cười ấm áp nhưng mang trong mình nhiều bí mật"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1676944690835-31b1a4423d52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxTJUUxJUJCJTlCbSUyMG1haSUyMHRyb25nJTIwdHIlRTElQkElQkJvfGVufDB8fHx8MTc0NTEzNTg1NHww&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.truyennhaong.vn%2Fimages%2Fcovers%2Ftieuthuyet%2Fsom-mai-trong-treo.jpg&f=1&nofb=1&ipt=80ccf9f4b6f01d317b73fcbb2ba83667b387b8c43abcd1a19e47d7c96399f7a9) 
 
  # Sớm Mai Trong Trẻo - Hơi Thở Tươi Mới Của Văn Học Trẻ
 
