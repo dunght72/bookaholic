@@ -7,7 +7,7 @@ tags:
 description: "Đắc Nhân Tâm: Bí quyết thành công trong mọi mối quan hệ"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1731051431977-09f9f9d9d03e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHwlQzQlOTAlRTElQkElQUZjJTIwTmglQzMlQTJuJTIwVCVDMyVBMm18ZW58MHx8fHwxNzQ1MDI4MDY0fDA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freviewsach.net%2Fwp-content%2Fuploads%2F2018%2F12%2Freview-sach-dac-nhan-tam.jpg&f=1&nofb=1&ipt=6c3682a76c3a3af6b69cc2cbe8d754d85952bbf2568a4112b67f5541eb072c4a) 
 
  # Đắc Nhân Tâm - Chìa Khóa Vàng Cho Mọi Mối Quan Hệ
 
