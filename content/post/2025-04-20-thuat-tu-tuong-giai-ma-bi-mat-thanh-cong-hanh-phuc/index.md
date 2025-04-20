@@ -4,7 +4,7 @@ date: 2025-04-20T07:53:24.558Z
 tags:
   - Thought and thinking
 
-description: ""Thuật Tư Tưởng" tập trung vào việc phân tích tầm quan trọng của tư duy trong việc định hình cuộc sống và số phận con người. Tác giả khám phá cách mà những suy nghĩ, niềm tin và thái độ có thể tạo nên thành công hay thất bại"
+description: "Thuật Tư Tưởng tập trung vào việc phân tích tầm quan trọng của tư duy trong việc định hình cuộc sống và số phận con người. Tác giả khám phá cách mà những suy nghĩ, niềm tin và thái độ có thể tạo nên thành công hay thất bại"
 ---
 
 ![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGegNgcmrQY8%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=1a73d7975afe99cee56120f7a7ac016661be0bee9ca6ca793b09775570c17ec6) 
