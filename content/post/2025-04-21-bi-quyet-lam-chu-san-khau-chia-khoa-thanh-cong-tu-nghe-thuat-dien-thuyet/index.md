@@ -7,7 +7,7 @@ tags:
 description: "Bí quyết làm chủ sân khấu: Chìa khóa thành công từ Nghệ thuật diễn thuyết"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1598065412434-6544dc76f81f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxOZ2glRTElQkIlODclMjB0aHUlRTElQkElQUR0JTIwZGklRTElQkIlODVuJTIwdGh1eSVFMSVCQSVCRnQlMjAlQzQlOTElRTElQkIlODMlMjB0aCVDMyVBMG5oJTIwYyVDMyVCNG5nfGVufDB8fHx8MTc0NTIwMDgyMXww&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.fahasa.com%2Fmedia%2Fcatalog%2Fproduct%2Fn%2Fg%2Fnghe_thuat_dien_thuyet_de_thanh_cong_2_2020_06_16_13_57_46.png&f=1&nofb=1&ipt=b7b3dfa0aa1aad8a5ad6f93b6418c09344ecdceb2e12a5e732f2f13b35db40c3) 
 
  ### Nghệ thuật diễn thuyết để thành công: Hành trình chinh phục khán giả
 
