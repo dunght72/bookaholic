@@ -7,7 +7,7 @@ tags:
 description: "Thể Xác Và Tâm Hồn: Khám Phá Sự Kết Nối Sâu Sắc"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1652037967731-bdf6f34b9845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxUaCVFMSVCQiU4MyUyMFglQzMlQTFjJTIwViVDMyVBMCUyMFQlQzMlQTJtJTIwSCVFMSVCQiU5M258ZW58MHx8fHwxNzQ1MzczNjUyfDA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.netabooks.vn%2FData%2FSites%2F1%2Fmedia%2Fsach-2021%2Fthe-xac-va-tam-hon%2Fthe-xac-va-tam-hon-02.jpg&f=1&nofb=1&ipt=5d99f44d1c004ab3c8f78a9d080ef45cbd30ccb7fc7a6c95c07fffeeb1cb3396) 
 
  # Thể Xác Và Tâm Hồn - Một bức tranh chân thực về con người
 
