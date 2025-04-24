@@ -47,7 +47,8 @@ customLogo: #/imgs/hugo_next_logo.png
 
 # 用户自定义文件配置
 # Define custom file paths.
-# customFilePath:
+customFilePath:
+  header: custom_head.html
 #   sidebar: custom_sidebar.html
 #   footer: custom_footer.html
 #   style: /css/custom_style.css
