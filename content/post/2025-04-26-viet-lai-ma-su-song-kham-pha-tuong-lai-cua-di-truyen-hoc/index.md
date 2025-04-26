@@ -7,7 +7,7 @@ tags:
 description: "Viết lại mã sự sống: Khám phá tương lai của di truyền học"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1626047646686-db81dedfbaf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxWaSVFMSVCQSVCRnQlMjBsJUUxJUJBJUExaSUyMG0lQzMlQTMlMjBzJUUxJUJCJUIxJTIwcyVFMSVCQiU5MW5nfGVufDB8fHx8MTc0NTYzMjgzNHww&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://salt.tikicdn.com/cache/750x750/ts/product/59/42/d0/9e564bdb4f05671f64e9d5ffff804026.png.webp) 
 
  ## Viết lại mã sự sống - Hành trình khám phá gen và tương lai y học
 
