@@ -7,7 +7,7 @@ tags:
 description: "Nhà văn hiện đại: Giải mã thế giới văn chương đương đại"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1423248515266-98acb914c861?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxOaCVDMyVBMCUyMHYlQzQlODNuJTIwaGklRTElQkIlODduJTIwJUM0JTkxJUUxJUJBJUExaXxlbnwwfHx8fDE3NDU4NDczNDJ8MA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://product.hstatic.net/200000481913/product/1e8a576d-63f6-45a4-9f33-0e10faa0c8b1_769c9251f94843d19d3d557a9c9e2164_master.jpg)
 
  ## Nhà văn hiện đại - Hành trình chạm đến tâm hồn nghề viết
 
