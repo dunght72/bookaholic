@@ -8,7 +8,7 @@ tags:
 description: "Sisu - Vượt Qua Tất Cả: Hành Trình Khám Phá Sức Mạnh Nội Tâm"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDU5Nzg0Mzd8MA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvcdn.tikicdn.com%2Fts%2Ftmp%2Fc0%2F27%2F81%2F0ad766da8f42f29ee9cb2f32da66b5e4.jpg&f=1&ipt=9bc846f207e0504d922f98fd8660640ca63b3020667f5fba1fbebe625a62c85c)
 
  # SISU - Vượt Qua Tất Cả: Bí Quyết Sức Mạnh Nội Tâm
 
