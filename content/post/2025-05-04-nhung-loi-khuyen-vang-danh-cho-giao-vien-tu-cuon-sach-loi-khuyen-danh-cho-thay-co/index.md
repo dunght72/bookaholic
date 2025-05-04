@@ -8,7 +8,7 @@ tags:
 description: "Những Lời Khuyên Vàng Dành Cho Giáo Viên Từ Cuốn Sách Lời Khuyên Dành Cho Thầy Cô"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDYzMjQwNDl8MA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tramdoc.vn%2Fimage%2Fimg.news%2F0%2F0%2F0%2F9735.jpg%3Fv%3D1%26w%3D600%26h%3D400%26nocache%3D1&f=1&nofb=1&ipt=9d40ece1d924c68d3b504941366ac26e2e4dddc5faadcb763b53f1a867d37077) 
 
  # Lời Khuyên Dành Cho Thầy Cô - Hành Trình Truyền Cảm Hứng
 
