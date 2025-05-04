@@ -21,6 +21,6 @@ Mục tiêu của blog là giới thiệu những cuốn sách hay, truyền c�
 
 Nếu bạn có cùng đam mê, có gợi ý sách hay, hay đơn giản là muốn “tám” chuyện công nghệ – đừng ngại gửi mail cho mình qua: dung@dunghoang.net.
 
-[!DungHoang.net](https://i.ibb.co/WNC6dBZ7/image.png)
+![DungHoang.net](https://i.ibb.co/WNC6dBZ7/image.png)
 
 Chào mừng bạn đến với góc nhỏ của mình trên Internet. Hy vọng bạn sẽ tìm thấy ít nhất một cuốn sách khiến bạn không thể rời mắt!
