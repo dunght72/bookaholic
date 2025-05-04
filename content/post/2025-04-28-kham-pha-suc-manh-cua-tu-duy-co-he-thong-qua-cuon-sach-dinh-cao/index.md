@@ -8,7 +8,7 @@ tags:
 description: "Khám Phá Sức Mạnh Của Tư Duy Có Hệ Thống Qua Cuốn Sách Đỉnh Cao"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDU4NDgyMjN8MA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnewshop.vn%2Fpublic%2Fuploads%2Fproducts%2F6712%2Ftu-duy-co-he-thong.jpg&f=1&nofb=1&ipt=89c190d88a6c55cac14b5b3f4a2ba5b8d0c4a1c62b6cf6b7dc9304d200aa41ac) 
 
  # Tư duy có hệ thống: Hành trình sắp xếp cuộc sống khoa học
 
