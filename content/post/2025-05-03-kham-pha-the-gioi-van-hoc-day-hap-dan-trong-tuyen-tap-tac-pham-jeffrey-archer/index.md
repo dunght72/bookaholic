@@ -8,7 +8,7 @@ tags:
 description: "Khám Phá Thế Giới Văn Học Đầy Hấp Dẫn Trong Tuyển Tập Tác Phẩm Jeffrey Archer"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDYxNTEyNDF8MA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.reader.com.vn%2Fuploads%2Fimages%2Fchi-thoi-gian-co-the-cat-loi-1.png&f=1&ipt=f0bf5ca532f2bcd717b41d4a4749bb68d1f95a419e1ef5128da15df14732c2d5)
 
  ### Tuyển Tập Tác Phẩm Jeffrey Archer: Những Câu Chuyện Đầy Sắc Màu
 
