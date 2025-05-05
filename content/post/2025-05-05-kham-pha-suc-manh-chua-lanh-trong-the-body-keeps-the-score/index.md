@@ -7,7 +7,7 @@ tags:
 description: "Khám Phá Sức Mạnh Chữa Lành Trong The Body Keeps the Score"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDYzMjQwNDl8MA&ixlib=rb-4.0.3&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F67d4e8_a74c11890f8c4772912b2f1b0b7d5c13~mv2.png%2Fv1%2Ffill%2Fw_1000%2Ch_563%2Cal_c%2Cusm_0.66_1.00_0.01%2F67d4e8_a74c11890f8c4772912b2f1b0b7d5c13~mv2.png&f=1&ipt=22669c8e0c6d73cd99c7ac1bbf0a29ec29f81a2a8b29e51d678f7ad90293e5b7)
 
  # The Body Keeps the Score: Hành trình chữa lành từ những vết thương tâm lý
 
