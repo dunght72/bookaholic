@@ -7,7 +7,7 @@ tags:
 description: "Khám Phá Lịch Sử và Văn Hóa Qua Cuốn Sách Địa Chí Thái Nguyên"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDY0OTcyMjZ8MA&ixlib=rb-4.1.0&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.tgdd.vn%2FFiles%2F2021%2F06%2F24%2F1362989%2Ftop-16-dia-diem-du-lich-thai-nguyen-dep-thu-hut-khach-202305091631037855.jpg&f=1&nofb=1&ipt=5a1280c4a1e7cd0b02c31e61364643f0b68dc425a92957303498cdcac63c3112) 
 
  # Địa chí Thái Nguyên - Hành trình khám phá vùng đất trà xanh
 
