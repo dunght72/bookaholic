@@ -2,8 +2,8 @@
 title: "Khám Phá Lịch Sử và Văn Hóa Qua Cuốn Sách Địa Chí Thái Nguyên"
 date: 2025-05-06T02:07:06.597Z
 tags:
-  - Thái Nguyên (Vietnam : Province)
-
+  - Địa Lý
+  - Việt Nam
 description: "Khám Phá Lịch Sử và Văn Hóa Qua Cuốn Sách Địa Chí Thái Nguyên"
 ---
 
