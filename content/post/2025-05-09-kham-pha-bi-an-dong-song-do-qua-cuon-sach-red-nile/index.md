@@ -8,7 +8,7 @@ tags:
 description: "Khám Phá Bí Ẩn Dòng Sông Đỏ Qua Cuốn Sách 'Red Nile'"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDY3NTYwNzZ8MA&ixlib=rb-4.1.0&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsalt.tikicdn.com%2Fts%2Freview%2Fb0%2Fe7%2F0c%2F155fd198a29540978cd0c9f081c703b7.jpg&f=1&ipt=59ad0d42e24389a1922f8878fb94e4967fa688bfd77dfd3194838a5491c50f6f)
 
  ### RED NILE: Hành trình khám phá dòng sông đỏ bí ẩn 🌍
 
