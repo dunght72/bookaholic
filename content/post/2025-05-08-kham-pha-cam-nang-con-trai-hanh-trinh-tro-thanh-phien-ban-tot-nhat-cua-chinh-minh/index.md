@@ -8,7 +8,7 @@ tags:
 description: "Khám Phá Cẩm Nang Con Trai: Hành Trình Trở Thành Phiên Bản Tốt Nhất Của Chính Mình"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDY1OTA1ODJ8MA&ixlib=rb-4.1.0&q=80&w=400) 
+![Ảnh minh họa](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.fahasa.com%2Fmedia%2Fcatalog%2Fproduct%2Fc%2Fa%2Fcam-nang-con-trai_2.jpg&f=1&ipt=4aeed1d0d30534ca5545fc8040f69819897a0caa0c8d4e36caec01906d2c3bd8)
 
  # Cẩm nang con trai - Hành trình trưởng thành đầy cảm hứng
 
