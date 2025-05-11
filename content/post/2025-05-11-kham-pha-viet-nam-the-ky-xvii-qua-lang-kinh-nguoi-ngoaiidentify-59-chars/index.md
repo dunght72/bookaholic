@@ -1,13 +1,13 @@
 ---
-title: "Khám Phá Việt Nam Thế Kỷ XVII Qua Lăng Kính Người NgoàiIdentify (59 chars)"
+title: "Khám Phá Việt Nam Thế Kỷ XVII Qua Lăng Kính Người Nước Ngoài"
 date: 2025-05-11T06:31:19.376Z
 tags:
   - History
 
-description: "Khám Phá Việt Nam Thế Kỷ XVII Qua Lăng Kính Người NgoàiIdentify (59 chars)"
+description: "Khám Phá Việt Nam Thế Kỷ XVII Qua Lăng Kính Người Nước Ngoài"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDY5Mjg4NzB8MA&ixlib=rb-4.1.0&q=80&w=400) 
+![Ảnh minh hoạ](https://i.imgur.com/2jU3F9o.jpeg)
 
  ## Việt Nam Thế Kỷ XVII: Những Góc Nhìn Từ Bên Ngoài - Hành Trình Khám Phá Lịch Sử Qua Lăng Kính Ngoại Quốc
 
