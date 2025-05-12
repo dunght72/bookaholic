@@ -8,7 +8,7 @@ tags:
 description: "Khám Phá Bí Ẩn Và Sức Mạnh Trong Những Chàng Trai Huyền Thoại"
 ---
 
-![Ảnh minh họa](https://images.unsplash.com/photo-1529590003495-b2646e2718bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzA0NDl8MHwxfHNlYXJjaHwxfHxib29rJTJDcmVhZGluZ3xlbnwwfHx8fDE3NDY5Mjg4NzB8MA&ixlib=rb-4.1.0&q=80&w=400) 
+![Ảnh minh họa](https://i.imgur.com/mfSaDzm.jpeg)
 
  # Những Chàng Trai Huyền Thoại: Hành Trình Tìm Lại Giá Trị Bản Thân
 
