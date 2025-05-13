@@ -48,7 +48,6 @@ Cuốn sách kể về cuộc đời của Sinuhe, một thầy thuốc sống �
 | 3 sao | 89 |
 | 2 sao | 13 |
 | 1 sao | 7 |
-| **Tổng** | **038125789137** |
 
 
 👉 [Tìm sách này trên Tiki](https://tiki.vn/search?q=D%E1%BA%A5u%20Ch%C3%A2n%20Tr%C3%AAn%20C%C3%A1t)
