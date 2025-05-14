@@ -6,9 +6,9 @@ tags:
   - Crime
 
 ---
-Mọi người cùng nghe Podcast này nhé. Đây là Podcast được tạo bởi AI
+Mọi người cùng nghe Podcast này nhé. Đây là Podcast được tạo bởi AI nhé
 
 
-<audio src="/path/to/audio.mp3" controls>
+<audio src="https://podcast.dunghoang.net/audio/@bookaholic/review-sach-b-gia-mario-puzo.mp3" controls>
 Your browser does not support the audio tag.
 </audio>
