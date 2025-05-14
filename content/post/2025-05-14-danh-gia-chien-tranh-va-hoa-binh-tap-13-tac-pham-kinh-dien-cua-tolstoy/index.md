@@ -9,7 +9,7 @@ tags:
   - Historical Fiction
   - Historical
   - Leo Tolstoy
-description: "Chiến Tranh Và Hòa BìnhChiến Tranh Và Hòa Bình là một trong những cuốn sách tuyệt diệu nhất của thời đại ta." - Nhà văn I. Turgenev"Hãy thử ghé vào bất cứ quầy sách nào ở một thị trấn nhỏ của châu Âu hay châu Mỹ, người ta đều có thể tìm thấy Chiến Tranh Và Hòa Bình của Lev Tolstoy. Ở nước ngoài, chỉ cần bắt đầu nhắc tới văn học Nga, bạn sẽ ngay lập tức nghe thấy: "Tolstoy." Đó là biểu tượng cho những gì mà nước Nga đã trao tặng cho thế giới." - Nhà nghiên cứu văn hóa học Aleksandr Arkhangeksy Chiến Tranh Và Hòa Bình của L.Tolstoy chính là loại tác phẩm thuộc về tương lai." - V.I.Lenin"Cuốn sách đã làm tôi xúc động mạnh. Trong cuốn tiểu thuyết, biện chứng tâm hồn đã hòa nhập với triết lý, với sự vận động của lịch sử, và trong sự hòa hợp đó kết tinh rất nhiều vấn đề trọng yếu của thời đại chúng ta." - Nhà văn, nhà thơ Nguyễn Đinh Thi"
+description: "Cuốn sách đã làm tôi xúc động mạnh. Trong cuốn tiểu thuyết, biện chứng tâm hồn đã hòa nhập với triết lý, với sự vận động của lịch sử, và trong sự hòa hợp đó kết tinh rất nhiều vấn đề trọng yếu của thời đại chúng ta." - Nhà văn, nhà thơ Nguyễn Đinh Thi"
 ---
 
 ![Ảnh minh họa](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518599327i/38542943.jpg) 
