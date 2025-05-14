@@ -1,12 +1,6 @@
 ---
 title: "Đánh Giá Sách Get Your Sh*t Together: Bí Quyết Hoàn Thành Mọi Việc Và Sống Theo Ý Muốn"
 date: 2025-05-14T03:40:15.784Z
-// ShowToc: true
-// TocOpen: true
-// cover:
-//   image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1482921846i/31111142.jpg
-//   caption: "Hình minh họa"
-//   responsiveImages: true
 tags:
   - Nonfiction
   - Self Help
