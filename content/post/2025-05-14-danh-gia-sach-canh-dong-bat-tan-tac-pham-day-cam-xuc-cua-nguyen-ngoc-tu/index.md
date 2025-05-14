@@ -1,12 +1,6 @@
 ---
 title: "Đánh Giá Sách Cánh Đồng Bất Tận: Tác Phẩm Đầy Cảm Xúc Của Nguyễn Ngọc Tư"
 date: 2025-05-14T03:29:36.174Z
-ShowToc: true
-TocOpen: true
-cover:
-  image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1301137559i/7003187.jpg
-  caption: "Hình minh họa"
-  responsiveImages: true
 tags:
   - Fiction
   - Short Stories
