@@ -1,5 +1,5 @@
 ---
-title: "Đánh Giá Chiến Tranh và Hòa Bình Tập 1/3: Tác Phẩm Kinh Điển Của Tolstoy"
+title: "Đánh Giá Chiến Tranh và Hòa Bình: Tác Phẩm Kinh Điển Của Tolstoy"
 date: 2025-05-14T04:35:19.121Z
 tags:
   - Fiction
@@ -38,7 +38,7 @@ Tập 1 của **Chiến tranh và Hòa bình** đưa người đọc đến nư�
 - "Hạnh phúc thực sự nằm ở sự giản đơn của cuộc sống."  
 
 ### 🔚 Kết luận  
-**Chiến tranh và Hòa bình - Tập 1/3** là một khởi đầu đầy cuốn hút cho hành trình sử thi của Tolstoy. Cuốn sách không chỉ kể về chiến tranh hay hòa bình, mà là về chính chúng ta – những con người nhỏ bé trong dòng chảy lịch sử. Hãy cầm cuốn sách lên, nhâm nhi từng trang, và để nó dẫn bạn vào một thế giới vừa lạ lẫm vừa thân quen nhé!
+**Chiến tranh và Hòa bình** là một khởi đầu đầy cuốn hút cho hành trình sử thi của Tolstoy. Cuốn sách không chỉ kể về chiến tranh hay hòa bình, mà là về chính chúng ta – những con người nhỏ bé trong dòng chảy lịch sử. Hãy cầm cuốn sách lên, nhâm nhi từng trang, và để nó dẫn bạn vào một thế giới vừa lạ lẫm vừa thân quen nhé!
 
 
 ### Đánh giá độc giả
