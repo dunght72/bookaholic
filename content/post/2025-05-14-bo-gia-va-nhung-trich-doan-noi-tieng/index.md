@@ -16,6 +16,6 @@ Cuốn sách "Bố Già" được báo chí Mỹ đánh giá là tuy có nhiều
 <audio src="https://podcast.dunghoang.net/audio/@bookaholic/review-sach-b-gia-mario-puzo.mp3" controls>
 Your browser does not support the audio tag.
 </audio>
-
+<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px;  overflow: hidden;" src="https://podcast.dunghoang.net/@bookaholic/episodes/review-sach-b-gia-mario-puzo/embed/light-transparent"></iframe>
 ### Lưu ý
 *❗Nội dugn trên được tạo bởi AI và có thể chứa sai sót *
