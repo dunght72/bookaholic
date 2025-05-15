@@ -10,7 +10,7 @@ tags:
   - Audiobook
   - Entrepreneurship
   - Spencer Johnson
-description: "In this newly released edition of one of his classic books, The One Minute Sales Person, Spencer Johnson, the author of the number one New York Times bestseller Who Moved My Cheese?, shows you how to sell your ideas, products, or services successfully! This is the book that has proved to be a must-have for the millions of people who were looking for the quickest way to improve their selling skills.In these changing times, Spencer Johnson, coauthor of The One Minute Manager®, shows you how the phenomenal One Minute® methods can bring real and lasting sales success with the least amount of time and effort. You will learn how to enjoy your job and your life more as you discover the effective secrets of "self-management," the integrity of "selling on purpose," and the liberating "wonderful paradox" of helping others get what they want so you can get what you need.The One Minute Sales Person is a clear, easy and invaluable guide that works for both you and the people you sell to, for your financial prosperity and personal well-being.In short, it is a classic Spencer Johnson bestseller that can help you enjoy more success with less stress."
+
 ---
 
 ![Ảnh minh họa](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632011603i/36183824.jpg) 
