@@ -16,9 +16,9 @@ timeFormat: "02/01/2006 15:04:05"
 #customHead: ''' <script async defer src="https://server.dunghoang.net/tracker.js" data-website-id="cm9u0bsaf003e4jfcp265t9z9"></script> '''
 # 页面模式
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
-scheme: Pisces
+#scheme: Pisces
 #scheme: Gemini
 
 # 开启暗模式
