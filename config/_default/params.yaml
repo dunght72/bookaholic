@@ -16,10 +16,10 @@ timeFormat: "02/01/2006 15:04:05"
 #customHead: ''' <script async defer src="https://server.dunghoang.net/tracker.js" data-website-id="cm9u0bsaf003e4jfcp265t9z9"></script> '''
 # 页面模式
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
 #scheme: Pisces
-#scheme: Gemini
+scheme: Gemini
 
 # 开启暗模式
 # Dark Mode
@@ -989,7 +989,7 @@ motion:
 # Progress bar in the top during page loading.
 # For more information: https://github.com/CodeByZach/pace
 pace:
-  enable: false
+  enable: true
   # All available colors:
   # black | blue | green | orange | pink | purple | red | silver | white | yellow
   color: blue
